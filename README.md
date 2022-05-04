@@ -1,1 +1,1 @@
-# DevOpsHETIC
+# hetic
